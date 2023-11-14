@@ -10,6 +10,14 @@ html, body {
     text-align: center;
     font-family: verdana;
 }
+h4 {
+  font-family: "Times New Roman", Times, serif;
+  color: purple;
+}
+h2 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: red;
+}
 
 .center {
     display: block;
