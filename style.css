@@ -1,32 +1,48 @@
-html, body {
-    height: 100%;
-    width: 100%;
-  }
-   body{
-     background-color: #C0C0C0;
-   }
-
-   h1 {
-    text-align: center;
-    font-family: verdana;
+html,
+body {
+  height: 100%;
+  width: 100%;
 }
+
+body {
+  background-color: #C0C0C0;
+}
+
+h1 {
+  text-align: center;
+  font-family: verdana;
+}
+
 h4 {
   font-family: "Times New Roman", Times, serif;
   color: purple;
 }
+
 h2 {
   font-family: "Lucida Console", "Courier New", monospace;
   color: red;
 }
+
 h3 {
-color:bisque;
+  color: bisque;
 }
+
 .text-center {
   text-align: center;
 }
 
 .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav {
+  border-style: solid;
+  border-color: violet;
+}
+
+.center {
+  border-style: solid;
+  border-color: blue;
+}
