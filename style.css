@@ -11,6 +11,7 @@ body {
 h1 {
   text-align: center;
   font-family: verdana;
+  color:rgb(0, 77, 192);
 }
 
 h4 {
@@ -24,11 +25,13 @@ h2 {
 }
 
 h3 {
-  color: bisque;
+  color: rgb(255, 174, 0);
+  font-family:'Times New Roman', Times, serif
 }
 
 h5 {
 color:goldenrod;
+font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
 .text-center {
