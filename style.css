@@ -21,6 +21,7 @@ h4 {
 
 h2 {
   font-family: "Lucida Console", "Courier New", monospace;
+  text-decoration: overline;
   color: red;
 }
 
@@ -41,6 +42,10 @@ h6 {
 li {
   font-weight: bold;
   color:rgb(255, 0, 0);
+}
+
+p {
+  text-decoration: underline;
 }
 
 .text-center {
